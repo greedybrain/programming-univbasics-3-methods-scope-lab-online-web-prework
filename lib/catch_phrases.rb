@@ -13,4 +13,7 @@ def link()
 end
 
 def any_phrase(phrase)
+  puts phrase
 end
+
+any_phrase("Don't hate, do better *shruggz*")
